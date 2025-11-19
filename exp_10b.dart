@@ -23,10 +23,6 @@ class DebugPage extends StatelessWidget {
     // ----------------------------------------------------------
     debugPrint('DebugPage built at: ${DateTime.now()}');
 
-    // ----------------------------------------------------------
-    // Center widget simply centers its child both vertically
-    // and horizontally on the screen.
-    // ----------------------------------------------------------
     return const Center(
       // Text widget displays a short message to the user
       // indicating where to look (Debug Console in IDE)
